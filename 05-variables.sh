@@ -2,6 +2,6 @@
 
 echo "please enter your username: "
 
-read USERNAME
+read -s USERNAME
 
 echo "Hi $USERNAME, welcome to DevOps Puri"
